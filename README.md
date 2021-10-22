@@ -19,3 +19,7 @@ bootloader：PA9引脚接地上电进入USBbootloader
 
 视频演示：https://www.bilibili.com/video/BV12b4y1D7HF/
 
+![TIM截图20210325000141](https://user-images.githubusercontent.com/23308519/138417830-e1c84cad-8b7f-41cf-89d7-91ec1023f105.jpg)
+
+![TIM截图20210325000236](https://user-images.githubusercontent.com/23308519/138417864-7fb795ba-892a-499a-a7b8-9b2f394e9393.jpg)
+
