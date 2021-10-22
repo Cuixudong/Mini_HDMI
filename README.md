@@ -1,5 +1,5 @@
 # Mini_HDMI
-Mini_HDMI_to_RGB board
+迷你HDMI转RGB驱动板
 
 支持RGB屏幕分辨率：
 480-272   
